@@ -2,9 +2,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Badak_NGL_new_logo_%28since_2018%29.svg/1200px-Badak_NGL_new_logo_%28since_2018%29.svg.png" width="280" alt="Badak LNG Logo">
 </p>
 
-<h1 align="center">Aplikasi File Share</h1>
+<h1 align="center">File Share</h1>
 
-<p align="center">Sistem berbasis web untuk mengelola, menyimpan, dan membagikan file secara aman dan terstruktur.</p>
+<p align="center">Sistem berbasis web untuk upload file dengan aman .</p>
 
 ---
 
@@ -41,14 +41,14 @@ Aplikasi ini dibangun menggunakan:
 ## 🛠️ Teknologi yang Digunakan
 
 ### Backend:
-- Laravel 10
+- Laravel 11
 - PHP 8+
 - MySQL
 
 ### Frontend:
 - React.js
 - Vite
-- TailwindCSS (opsional)
+- TailwindCSS 
 
 ---
 
